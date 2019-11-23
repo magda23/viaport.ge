@@ -1,0 +1,168 @@
+@media(max-width: 1199px){
+	.booking{
+		margin-top: 25px;
+	}
+}
+@media(max-width: 991px){
+	.car-id{
+		padding: 3px;
+		font-size: 12px;
+		top: 23px;
+		left: -38px;
+	}
+	.booking-info{
+		margin-bottom: 30px;
+	}
+	.car-title, .car-p{
+		font-size: 13px;
+	}
+	.type-h{
+		font-size: 13px;
+	}
+	.booking{
+		margin: 25px 0;
+	}
+	.booking-a{
+		font-size: 13px;
+		padding: 6px;
+	}
+	.price{
+		font-size: 13px;
+		margin-left: 15px;
+	}
+	.title-h{
+		font-size: 15px;
+	}
+	.serv-a{
+		font-size: 13px;
+		margin: 8px 0;
+	}
+	.book-h{
+		font-size: 15px;
+	}
+	.pick-h{
+		font-size: 14px;
+	}
+	.dropdown-toggle{
+		font-size: 12px;
+	}
+	.dropdown-item{
+		font-size: 12px;
+	}
+	.date_time{
+		font-size: 12px;
+		width: 200px;
+	}
+	.check-h{
+		font-size: 15px;
+	}
+	.form-check-label{
+		font-size: 14px;
+		margin-left: 10px;
+	}
+	.form-group{
+		flex-direction: column;
+		align-items: center;
+	}
+	.total-p{
+		font-size: 16px;
+	}
+	.myinput{
+		margin: 10px 0;
+	}
+	.second-side{
+		align-items: normal!important;
+	}
+}
+@media(min-width: 768px){
+	.burger-btn{
+		display: none;
+	}
+}
+@media(max-width: 767px){
+	.container{
+		width: 720px;
+	}
+	.menu-li{
+		display: none;
+	}
+	.car{
+		align-items: center;
+		padding-top: 50px;
+	}
+	.check{
+		margin-bottom: 20px;
+	}
+	.pick-group{
+		margin-bottom: 40px;
+	}
+	.booking{
+		margin: 20px 0;
+		flex-direction: column;
+	}
+	.price{
+		margin: 10px 0;
+	}
+	.contact-a{
+		margin-bottom: 10px;
+	}
+	.date_time{
+		font-size: 10px;
+		width: 170px;
+	}
+	.second-side{
+		display: flex;
+		flex-direction: column;
+		align-items: center!important;
+	}
+}
+@media(max-width: 575px){
+	.container{
+		width: 500px;
+	}
+	.logo-a{
+		margin-top: 10px;
+	}
+	.burger-btn{
+		margin-top: -45px;
+	}
+	.date_time{
+		font-size: 12px;
+		width: 200px;
+	}
+	.footer-info{
+		display: flex;
+		text-align: center;
+	}
+	.last-info{
+		margin-top: 15px;
+	}
+	#map{
+		margin-top: 20px;
+	}
+}
+@media(max-width: 500px){
+	.container{
+		width: 400px;
+	}
+}
+@media(max-width: 400px){
+	.container{
+		width: 315px;
+	}
+	.booking-a{
+		font-size: 12px;
+	}
+	.title-h{
+		font-size: 12px;
+	}
+	.serv-a{
+		margin: 5px 0;
+	}
+	#map{
+		height: 150px;
+	}
+	.table td, .table th{
+		padding: 8px;
+	}
+}
